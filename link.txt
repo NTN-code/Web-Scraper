@@ -1,0 +1,8 @@
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&prc=r%3A0%2C120&gtsy=country-belarus~province-minsk~locality-minsk&rgn=7&rnl=3&rrm=v.or%3A1&cursor=eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6Mn0%3D
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6M30%3D&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NH0%3D&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NX0%3D&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6ZmFsc2UsInAiOjR9&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6ZmFsc2UsInAiOjN9&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6ZmFsc2UsInAiOjJ9&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
+https://re.kufar.by/listings?cat=1040&size=30&typ=let&cur=USD&cursor=eyJ0IjoiYWJzIiwiZiI6ZmFsc2UsInAiOjF9&gtsy=country-belarus~province-minsk~locality-minsk&prc=r%3A0%2C120&rgn=7&rnl=3&rrm=v.or%3A1
